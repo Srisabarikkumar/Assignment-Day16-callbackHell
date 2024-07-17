@@ -1,0 +1,13 @@
+
+/* #countDown {
+    text-align: center;
+} */
+
+#countDown {
+    height: 20%;
+    width: 50%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    background: rgb(190, 161, 190);
+}
